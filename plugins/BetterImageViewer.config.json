@@ -25,9 +25,9 @@
             "enabled": true,
             "enableMode": 0,
             "interp": false,
-            "round": false,
+            "round": true,
             "outOfBounds": false,
-            "outOfScreen": true,
+            "outOfScreen": false,
             "smoothing": true,
             "zoomMultiplier": 10,
             "noLimits": false
