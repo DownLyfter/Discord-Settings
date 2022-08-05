@@ -1,0 +1,434 @@
+{
+    "currentVersionInfo": {
+        "version": "1.5.22",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "hideUnsortedMedias": true,
+        "hideThumbnail": false,
+        "showContextMenuFavorite": true,
+        "forceShowFavoritesGIFs": true,
+        "mediaVolume": 8.74551971326165,
+        "btnsPosition": "right",
+        "image": {
+            "enabled": true,
+            "showBtn": true
+        },
+        "video": {
+            "enabled": true,
+            "showBtn": true
+        },
+        "audio": {
+            "enabled": true,
+            "showBtn": true
+        }
+    },
+    "image": {
+        "medias": [
+            {
+                "url": "https://cdn.discordapp.com/attachments/1001496383880171520/1001497651965067294/RobloxScreenShot20220726_073650984.png",
+                "width": 1260,
+                "height": 668,
+                "name": "RobloxScreenShot20220726_073650984"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/955787670263566379/1001544766447685722/IMG_0026.png",
+                "width": 715,
+                "height": 697,
+                "name": "IMG_0026"
+            },
+            {
+                "url": "https://images-ext-2.discordapp.net/external/pXMP54cSRamq7XuP8469RXiRGSorDZREA7u0b9mGkz4/https/pbs.twimg.com/media/FYjQQtZXoAAHFUK.jpg",
+                "width": 400,
+                "height": 300,
+                "name": "FYjQQtZXoAAHFUK"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/955787670263566379/1001152926129074206/unknown.png",
+                "width": 688.8889071382126,
+                "height": 668.8889066083935,
+                "name": "unknown"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/955787670263566379/1001053882924929024/unknown.png",
+                "width": 976.6666925394983,
+                "height": 432.2222336722012,
+                "name": "unknown"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/955787670263566379/1000211998799310879/Screenshot_2022-07-22-20-22-34-68_1c337646f29875672b5a61192b9010f9.jpg",
+                "width": 703.3333519653042,
+                "height": 774.4444649602165,
+                "name": "Screenshot_2022-07-22-20-22-34-68_1c337646f29875672b5a61192b9010f9"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/988208480710189156/1001707684074094603/unknown.png",
+                "width": 1238.8889217082374,
+                "height": 774.4444649602165,
+                "name": "unknown"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/998817054922645514/1001132023408238642/Screenshot_20220725-082035_Firefox.png",
+                "width": 1463.3333720984292,
+                "height": 627.77779440821,
+                "name": "Screenshot_20220725-082035_Firefox"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/998817054922645514/1001886960698265680/unknown.png",
+                "width": 244.44445092001095,
+                "height": 351.11112041237936,
+                "name": "unknown"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/988208480710189156/999252822031863828/unknown.png",
+                "width": 1376.6667031358797,
+                "height": 774.4444649602165,
+                "name": "unknown"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/988208480710189156/998948991104458763/unknown.png",
+                "width": 476.6666792940213,
+                "height": 774.4444649602165,
+                "name": "unknown"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/988208480710189156/997596449187565648/unknown.png",
+                "width": 771.11113153858,
+                "height": 774.4444649602165,
+                "name": "unknown"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/1001496383880171520/1002306364938399774/unknown.png",
+                "width": 1376.6667031358797,
+                "height": 774.4444649602165,
+                "name": "unknown"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/1001496383880171520/1002335788090011648/unknown.png",
+                "width": 537.777792024024,
+                "height": 171.11111564400767,
+                "name": "unknown"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/955787670263566379/1003881086964727829/unknown.png",
+                "width": 675.5555734516666,
+                "height": 671.1111288894846,
+                "name": "unknown"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/955787670263566379/1003881281261682688/unknown.png",
+                "width": 552.2222368511157,
+                "height": 774.4444649602165,
+                "name": "unknown"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/955787670263566379/1003871110590369802/unknown.png",
+                "width": 626.6666832676644,
+                "height": 774.4444649602165,
+                "name": "unknown"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/988208480710189156/1003949372360364102/unknown.png",
+                "width": 1376.6667031358797,
+                "height": 774.4444649602165,
+                "name": "unknown"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/637051387016118293/783185874111299584/eabedcb.jpg",
+                "width": 533.3333474618421,
+                "height": 767.7777981169435,
+                "name": "eabedcb"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/637051387016118293/783185872451010580/23ce0fb.jpg",
+                "width": 503.33334666711346,
+                "height": 774.4444649602165,
+                "name": "23ce0fb"
+            },
+            {
+                "url": "https://images-ext-1.discordapp.net/external/QWQshVY_MVLYVX0dZQ9BQMiMkuCK5DyZg2h6mDUqAKI/https/i.redd.it/0tdxt3hpwn791.jpg",
+                "width": 375,
+                "height": 300,
+                "name": "0tdxt3hpwn791"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/905223391722745876/1003137354829140120/unknown.png",
+                "width": 1134.4444744969599,
+                "height": 586.6666822080263,
+                "name": "unknown"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/881616263254798397/1004208453960597524/Screenshot_20220802-200502_Reddit.jpg",
+                "width": 552.2222368511157,
+                "height": 774.4444649602165,
+                "name": "Screenshot_20220802-200502_Reddit"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/955787670263566379/1004225741656952893/unknown.png",
+                "width": 600.0000158945724,
+                "height": 774.4444649602165,
+                "name": "unknown"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/989362121764655145/1004072549904293898/unknown.png",
+                "width": 454.44445648311125,
+                "height": 605.5555715972998,
+                "name": "unknown"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/988208480710189156/1004219151671361666/unknown.png",
+                "width": 1376.6667031358797,
+                "height": 774.4444649602165,
+                "name": "unknown"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/345046205732093962/962549648529170493/unknown-3-2.png",
+                "width": 774.4444649602165,
+                "height": 774.4444649602165,
+                "name": "unknown-3-2"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/345046205732093962/978398156784021534/unknown.png",
+                "width": 396.666677174745,
+                "height": 774.4444649602165,
+                "name": "unknown"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/345046205732093962/1002536722359390339/image0-47.jpg",
+                "width": 544.4444588672972,
+                "height": 774.4444649602165,
+                "name": "image0-47"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/994910793726443562/998306042297458790/635CE67E-F12C-48D4-8B85-94D5C9A7A673.jpg",
+                "width": 400,
+                "height": 225,
+                "name": "635CE67E-F12C-48D4-8B85-94D5C9A7A673"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/891838951659282475/891912540521660426/unknown.png",
+                "width": 1376.6667031358797,
+                "height": 774.4444649602165,
+                "name": "unknown"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/989362121764655145/1004290484014944376/8eh2uhilfqe91.jpg",
+                "width": 774.4444649602165,
+                "height": 774.4444649602165,
+                "name": "8eh2uhilfqe91"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/989362121764655145/1004287435619979305/IMG-20220522-WA0029.jpg",
+                "width": 623.3333498460279,
+                "height": 774.4444649602165,
+                "name": "IMG-20220522-WA0029"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/989362121764655145/1004297965285949550/Screenshot_20220701-230344_Instagram.jpg",
+                "width": 651.1111283596655,
+                "height": 774.4444649602165,
+                "name": "Screenshot_20220701-230344_Instagram"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/989362121764655145/1004304824692641812/IMG_1301.jpg",
+                "width": 774.4444649602165,
+                "height": 774.4444649602165,
+                "name": "IMG_1301"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/989362121764655145/1004305275550965810/G8-1.jpg",
+                "width": 1033.3333607073191,
+                "height": 774.4444649602165,
+                "name": "G8-1"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/989362121764655145/1004305945259692192/red_girl_original_drawn_by_miko_succubs_opa_sex.jpg",
+                "width": 547.7777922889336,
+                "height": 774.4444649602165,
+                "name": "red_girl_original_drawn_by_miko_succubs_opa_sex"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/989362121764655145/1004305944643113021/w7s151ixgso61.jpg",
+                "width": 1033.3333607073191,
+                "height": 774.4444649602165,
+                "name": "w7s151ixgso61"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/989362121764655145/1004305944152391710/IMG_20220715_181841_137.jpg",
+                "width": 538.8889031645696,
+                "height": 774.4444649602165,
+                "name": "IMG_20220715_181841_137"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/989362121764655145/1004305943938478160/96121592_p0_master1200.webp",
+                "width": 535.5555697429331,
+                "height": 774.4444649602165,
+                "name": "96121592_p0_master1200"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/989362121764655145/1004305943544209409/4595509_-_Sakuya_Izayoi_Touhou.png",
+                "width": 843.3333556740378,
+                "height": 774.4444649602165,
+                "name": "4595509_-_Sakuya_Izayoi_Touhou"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/989362121764655145/1004305943019925524/unknown-6.jpeg",
+                "width": 461.1111233263843,
+                "height": 774.4444649602165,
+                "name": "unknown-6"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/989362121764655145/1004305942558547998/G9.jpg",
+                "width": 533.3333474618421,
+                "height": 774.4444649602165,
+                "name": "G9"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/989362121764655145/1004312102044958730/20220717_104241.jpg",
+                "width": 522.222236056387,
+                "height": 774.4444649602165,
+                "name": "20220717_104241"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/989362121764655145/1004312102388908122/qv4h3knaal171.jpg",
+                "width": 541.1111254456606,
+                "height": 774.4444649602165,
+                "name": "qv4h3knaal171"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/989362121764655145/1004312102770581514/FB_IMG_1657453018845.jpg",
+                "width": 602.2222381756633,
+                "height": 774.4444649602165,
+                "name": "FB_IMG_1657453018845"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/989362121764655145/1004312103110328351/FB_IMG_1657445656695.jpg",
+                "width": 484.4444572778399,
+                "height": 774.4444649602165,
+                "name": "FB_IMG_1657445656695"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/989362121764655145/1004312104846757939/G9.jpg",
+                "width": 533.3333474618421,
+                "height": 774.4444649602165,
+                "name": "G9"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/989362121764655145/1004312925449764885/Screenshot_20220708-100111.png",
+                "width": 575.5555708025712,
+                "height": 774.4444649602165,
+                "name": "Screenshot_20220708-100111"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/989362121764655145/1004312926301208576/FB_IMG_1649731709939.jpg",
+                "width": 547.7777922889336,
+                "height": 774.4444649602165,
+                "name": "FB_IMG_1649731709939"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/989362121764655145/1004314619009044540/unknown.png",
+                "width": 553.3333479916612,
+                "height": 774.4444649602165,
+                "name": "unknown"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/955787670263566379/1004315662124060742/unknown.png",
+                "width": 533.3333474618421,
+                "height": 653.3333506407565,
+                "name": "unknown"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/881616263254798397/1004316282826526750/RDT_20220803_0313433622547851592279495.jpg",
+                "width": 671.1111288894846,
+                "height": 774.4444649602165,
+                "name": "RDT_20220803_0313433622547851592279495"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/989362121764655145/1004322670734741544/2ms4lr98wjf41.jpg",
+                "width": 435.5555670938377,
+                "height": 774.4444649602165,
+                "name": "2ms4lr98wjf41"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/881616263254798397/1005024651480666212/20220805_020707.jpg",
+                "width": 225,
+                "height": 300,
+                "name": "20220805_020707"
+            }
+        ]
+    },
+    "video": {
+        "medias": [
+            {
+                "url": "https://cdn.discordapp.com/attachments/955787670263566379/1000320203567136778/azusa-aizawa-azusa.mp4",
+                "poster": "https://media.discordapp.net/attachments/955787670263566379/1000320203567136778/azusa-aizawa-azusa.mp4?format=jpeg",
+                "width": 640,
+                "height": 640,
+                "name": "azusa-aizawa-azusa"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/998817054922645514/1001449027839209532/Tsunami-1.mp4",
+                "poster": "https://media.discordapp.net/attachments/998817054922645514/1001449027839209532/Tsunami-1.mp4?format=jpeg",
+                "width": 1280,
+                "height": 640,
+                "name": "Tsunami-1"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/1001496383880171520/1002320192220692552/1658976175393.mp4",
+                "poster": "https://media.discordapp.net/attachments/1001496383880171520/1002320192220692552/1658976175393.mp4?format=jpeg&width=392&height=697",
+                "width": 392,
+                "height": 697,
+                "name": "1658976175393"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/955787670263566379/1003856378118549575/20220801_204617.mp4",
+                "poster": "https://media.discordapp.net/attachments/955787670263566379/1003856378118549575/20220801_204617.mp4?format=jpeg&width=558&height=697",
+                "width": 558,
+                "height": 697,
+                "name": "20220801_204617"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/988190699604303872/1003500758962032650/coloride.webm",
+                "poster": "https://media.discordapp.net/attachments/988190699604303872/1003500758962032650/coloride.webm?format=jpeg",
+                "width": 400,
+                "height": 225,
+                "name": "coloride"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/988208480710189156/1003950792199393402/what_did_you_say_your_name_was.mp4",
+                "poster": "https://media.discordapp.net/attachments/988208480710189156/1003950792199393402/what_did_you_say_your_name_was.mp4?format=jpeg&width=1239&height=697",
+                "width": 1239,
+                "height": 697,
+                "name": "what_did_you_say_your_name_was"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/988208480710189156/1004229873432277062/480P_2000K_393119121.mp4",
+                "poster": "https://media.discordapp.net/attachments/988208480710189156/1004229873432277062/480P_2000K_393119121.mp4?format=jpeg",
+                "width": 844,
+                "height": 480,
+                "name": "480P_2000K_393119121"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/935709516631277568/1003888909954076672/mfw_a_funny_meme.mp4",
+                "poster": "https://media.discordapp.net/attachments/935709516631277568/1003888909954076672/mfw_a_funny_meme.mp4?format=jpeg",
+                "width": 432,
+                "height": 360,
+                "name": "mfw_a_funny_meme"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/935709516631277568/1003270713278480454/Snaptik_7053942736096972037_camerarollmemepage-2.mp4",
+                "poster": "https://media.discordapp.net/attachments/935709516631277568/1003270713278480454/Snaptik_7053942736096972037_camerarollmemepage-2.mp4?format=jpeg",
+                "width": 576,
+                "height": 598,
+                "name": "Snaptik_7053942736096972037_camerarollmemepage-2"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/803127439948644374/1003827666455101500/go_crazy.webm",
+                "poster": "https://media.discordapp.net/attachments/803127439948644374/1003827666455101500/go_crazy.webm?format=jpeg",
+                "width": 300,
+                "height": 300,
+                "name": "go_crazy"
+            }
+        ]
+    }
+}
